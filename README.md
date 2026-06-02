@@ -31,10 +31,11 @@ Navigate your character using these standard PC controls:
 
 | Key | Action / Function |
 | :---: | --- |
-| **W** | Move Forward / Jump |
+| **W** | Move Forward |
 | **A** | Move Left |
-| **S** | Move Backward / Down |
+| **S** | Move Backward |
 | **D** | Move Right |
+| **Space** | Jump |
 
 ---
 Developed with ❤️ using **Unity Engine**.
