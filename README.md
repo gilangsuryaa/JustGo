@@ -31,10 +31,8 @@ Navigate your character using these standard PC controls:
 
 | Key | Action / Function |
 | :---: | --- |
-| **W** | Move Forward |
-| **A** | Move Left |
-| **S** | Move Backward |
-| **D** | Move Right |
+| **D** | Move Forward |
+| **A** | Move Backward |
 | **Space** | Jump |
 
 ---
