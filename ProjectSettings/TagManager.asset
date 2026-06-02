@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Background
+  - Apple
+  - Box
+  - Ground
+  - Trap
+  - Orange
+  - Audio
+  - Key
+  - Door
+  - Enemy
+  - Wall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Transition
+  - Player
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2176706515
+    locked: 0
+  - name: Traps
+    uniqueID: 3590397185
+    locked: 0
+  - name: Ground
+    uniqueID: 4060120931
+    locked: 0
+  - name: Player
+    uniqueID: 704512765
+    locked: 0
+  - name: Foreground
+    uniqueID: 2406056891
+    locked: 0
+  m_RenderingLayers:
+  - Default
